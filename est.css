@@ -1,0 +1,13 @@
+body{background: darkgray;}
+
+p{
+    text-align: center ;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p.rgt{
+    text-align: right
+}
+
+.ctr{ text-align: center
+}
